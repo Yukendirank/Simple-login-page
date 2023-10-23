@@ -1,3 +1,2 @@
 # Simple-login-page
-## Colorful Login Page
 This is a simple, stylish login page designed to enhance the user experience with an attractive and colorful interface. With a vibrant blue background and a white login container, this login page provides a visually appealing experience for your users. The login button is highlighted in a bold red color, which transitions to a deeper shade when hovered over, adding an interactive touch. You can easily integrate this login page into your web application to provide an eye-catching and user-friendly login experience. Customize it to fit your project's needs, and feel free to add additional functionality using JavaScript. Enjoy using our colorful login page in your web applications!
